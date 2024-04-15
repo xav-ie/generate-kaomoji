@@ -1,10 +1,10 @@
-# kaomoji-generator
+# generate-kaomoji
 
 Generate random kaomoji! Useful for notifications, bars, and all other utilities for extra ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ .
 
 ## Usage
 
-See `generate-kaomoji --help` or `nix run github:xav-ie/kaomoji-generator -- --help`:
+See `generate-kaomoji --help` or `nix run github:xav-ie/generate-kaomoji -- --help`:
 ```sh
 generate-kaomoji --help
 Usage: generate-kaomoji [options] [JQ filter]
