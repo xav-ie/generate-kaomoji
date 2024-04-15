@@ -38,3 +38,7 @@ It is 757 kaomojis total at time of writing.
 
 I think the selection on kaomoji.ru is good. There are some places that have excessive/useless kaomoji. This list may change over time to have less/more kaomoji that are more relevant.
 
+## TODO
+
+- [ ] support filtering by category
+- [ ] allow flake to output raw json as an output
