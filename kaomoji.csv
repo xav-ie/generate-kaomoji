@@ -1,762 +1,758 @@
-"id","value","category","description"
-1,(* ^ ω ^),joy,""
-2,(´ ∀ ` *),joy,""
-3,"٩(◕‿◕｡)۶",joy,""
-4,☆*:.｡.o(≧▽≦)o.｡.:*☆,joy,""
-5,(o^▽^o),joy,""
-6,(⌒▽⌒)☆,joy,""
-7,<(￣︶￣)>,joy,""
-8,。.:☆*:･'(*⌒―⌒*))),joy,""
-9,ヽ(・∀・)ﾉ,joy,""
-10,(´｡• ω •｡`),joy,""
-11,(￣ω￣),joy,""
-12,｀;:゛;｀;･(°ε° ),joy,""
-13,(o･ω･o),joy,""
-14,(＠＾◡＾),joy,""
-15,ヽ(*・ω・)ﾉ,joy,""
-16,(o_ _)ﾉ彡☆,joy,""
-17,(^人^),joy,""
-18,(o´▽`o),joy,""
-19,(*´▽`*),joy,""
-20,｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡,joy,""
-21,( ´ ω ` ),joy,""
-22,(((o(*°▽°*)o))),joy,""
-23,(≧◡≦),joy,""
-24,(o´∀`o),joy,""
-25,(´• ω •`),joy,""
-26,(＾▽＾),joy,""
-27,(⌒ω⌒),joy,""
-28,∑d(°∀°d),joy,""
-29,╰(▔∀▔)╯,joy,""
-30,(─‿‿─),joy,""
-31,(*^‿^*),joy,""
-32,ヽ(o^ ^o)ﾉ,joy,""
-33,(✯◡✯),joy,""
-34,(◕‿◕),joy,""
-35,(*≧ω≦*),joy,""
-36,(☆▽☆),joy,""
-37,(⌒‿⌒),joy,""
-38,＼(≧▽≦)／,joy,""
-39,ヽ(o＾▽＾o)ノ,joy,""
-40,☆ ～('▽^人),joy,""
-41,(*°▽°*),joy,""
-42,"٩(｡•́‿•̀｡)۶",joy,""
-43,(✧ω✧),joy,""
-44,ヽ(*⌒▽⌒*)ﾉ,joy,""
-45,(´｡• ᵕ •｡`),joy,""
-46,( ´ ▽ ` ),joy,""
-47,(￣▽￣),joy,""
-48,╰(*´︶`*)╯,joy,""
-49,ヽ(>∀<☆)ノ,joy,""
-50,o(≧▽≦)o,joy,""
-51,(☆ω☆),joy,""
-52,(っ˘ω˘ς ),joy,""
-53,＼(￣▽￣)／,joy,""
-54,(*¯︶¯*),joy,""
-55,＼(＾▽＾)／,joy,""
-56,"٩(◕‿◕)۶",joy,""
-57,(o˘◡˘o),joy,""
-58,(★ω★)/,joy,""
-59,(^ヮ^)/,joy,""
-60,(〃＾▽＾〃),joy,""
-61,(╯✧▽✧)╯,joy,""
-62,o(>ω<)o,joy,""
-63,o( ❛ᴗ❛ )o,joy,""
-64,｡ﾟ(TヮT)ﾟ｡,joy,""
-65,( ‾́ ◡ ‾́ ),joy,""
-66,(ﾉ´ヮ`)ﾉ*: ･ﾟ,joy,""
-67,(b ᵔ▽ᵔ)b,joy,""
-68,(๑˃ᴗ˂)ﻭ,joy,""
-69,(๑˘︶˘๑),joy,""
-70,( ˙꒳​˙ ),joy,""
-71,(*꒦ິ꒳꒦ີ),joy,""
-72,°˖✧◝(⁰▿⁰)◜✧˖°,joy,""
-73,(´･ᴗ･ ` ),joy,""
-74,(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧,joy,""
-75,(„• ֊ •„),joy,""
-76,(.❛ ᴗ ❛.),joy,""
-77,(⁀ᗢ⁀),joy,""
-78,(￢‿￢ ),joy,""
-79,(¬‿¬ ),joy,""
-80,(*￣▽￣)b,joy,""
-81,( ˙▿˙ ),joy,""
-82,(¯▿¯),joy,""
-83,( ◕▿◕ ),joy,""
-84,＼(٥⁀▽⁀ )／,joy,""
-85,(„• ᴗ •„),joy,""
-86,(ᵔ◡ᵔ),joy,""
-87,( ´ ▿ ` ),joy,""
-88,(ﾉ´ з `)ノ,love,""
-89,(♡μ_μ),love,""
-90,(*^^*)♡,love,""
-91,☆⌒ヽ(*'､^*)chu,love,""
-92,(♡-_-♡),love,""
-93,(￣ε￣＠),love,""
-94,ヽ(♡‿♡)ノ,love,""
-95,( ´ ∀ `)ノ～ ♡,love,""
-96,(─‿‿─)♡,love,""
-97,(´｡• ᵕ •｡`) ♡,love,""
-98,(*♡∀♡),love,""
-99,(｡・//ε//・｡),love,""
-100,(´ ω `♡),love,""
-101,♡( ◡‿◡ ),love,""
-102,(◕‿◕)♡,love,""
-103,(/▽＼*)｡o○♡,love,""
-104,(ღ˘⌣˘ღ),love,""
-105,(♡°▽°♡),love,""
-106,♡(｡- ω -),love,""
-107,♡ ～('▽^人),love,""
-108,(´• ω •`) ♡,love,""
-109,(´ ε ` )♡,love,""
-110,(´｡• ω •｡`) ♡,love,""
-111,( ´ ▽ ` ).｡ｏ♡,love,""
-112,╰(*´︶`*)╯♡,love,""
-113,(*˘︶˘*).｡.:*♡,love,""
-114,(♡˙︶˙♡),love,""
-115,♡＼(￣▽￣)／♡,love,""
-116,(≧◡≦) ♡,love,""
-117,(⌒▽⌒)♡,love,""
-118,(*¯ ³¯*)♡,love,""
-119,(っ˘з(˘⌣˘ ) ♡,love,""
-120,♡ (˘▽˘>ԅ( ˘⌣˘),love,""
-121,( ˘⌣˘)♡(˘⌣˘ ),love,""
-122,(/^-^(^ ^*)/ ♡,love,""
-123,"٩(♡ε♡)۶",love,""
-124,σ(≧ε≦σ) ♡,love,""
-125,♡ (⇀ 3 ↼),love,""
-126,♡ (￣З￣),love,""
-127,(❤ω❤),love,""
-128,(˘∀˘)/(μ‿μ) ❤,love,""
-129,❤ (ɔˆз(ˆ⌣ˆc),love,""
-130,(´♡‿♡`),love,""
-131,(°◡°♡),love,""
-132,Σ>―(〃°ω°〃)♡→,love,""
-133,"(´,,•ω•,,)♡",love,""
-134,(´꒳`)♡,love,""
-135,(⌒_⌒;),embarassment,""
-136,(o^ ^o),embarassment,""
-137,(*/ω＼),embarassment,""
-138,(*/。＼),embarassment,""
-139,(*/_＼),embarassment,""
-140,(*ﾉωﾉ),embarassment,""
-141,(o-_-o),embarassment,""
-142,(*μ_μ),embarassment,""
-143,( ◡‿◡ *),embarassment,""
-144,(ᵔ.ᵔ),embarassment,""
-145,(*ﾉ∀`*),embarassment,""
-146,(//▽//),embarassment,""
-147,(//ω//),embarassment,""
-148,(ノ*°▽°*),embarassment,""
-149,(*^.^*),embarassment,""
-150,(*ﾉ▽ﾉ),embarassment,""
-151,(￣▽￣*)ゞ,embarassment,""
-152,(⁄ ⁄•⁄ω⁄•⁄ ⁄),embarassment,""
-153,(*/▽＼*),embarassment,""
-154,(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄),embarassment,""
-155,(„ಡωಡ„),embarassment,""
-156,(ง ื▿ ื)ว,embarassment,""
-157,( 〃▽〃),embarassment,""
-158,(/▿＼ ),embarassment,""
-159,(///￣ ￣///),embarassment,""
-160,(ノ_<。)ヾ(´ ▽ ` ),sympathy,""
-161,｡･ﾟ･(ﾉД`)ヽ(￣ω￣ ),sympathy,""
-162,ρ(- ω -、)ヾ(￣ω￣; ),sympathy,""
-163,ヽ(￣ω￣(。。 )ゝ,sympathy,""
-164,(*´ I `)ﾉﾟ(ﾉД｀ﾟ)ﾟ｡,sympathy,""
-165,ヽ(~_~(・_・ )ゝ,sympathy,""
-166,(ﾉ_；)ヾ(´ ∀ ` ),sympathy,""
-167,(; ω ; )ヾ(´∀`* ),sympathy,""
-168,(*´ー)ﾉ(ノд`),sympathy,""
-169,(´-ω-`( _ _ ),sympathy,""
-170,(っ´ω`)ﾉ(╥ω╥),sympathy,""
-171,(ｏ・_・)ノ”(ノ_<、),sympathy,""
-172,(＃＞＜),dissatisfaction,""
-173,(；⌣̀_⌣́),dissatisfaction,""
-174,☆ｏ(＞＜；)○,dissatisfaction,""
-175,(￣ ￣|||),dissatisfaction,""
-176,(；￣Д￣),dissatisfaction,""
-177,(￣□￣」),dissatisfaction,""
-178,(＃￣0￣),dissatisfaction,""
-179,(＃￣ω￣),dissatisfaction,""
-180,(￢_￢;),dissatisfaction,""
-181,(＞ｍ＜),dissatisfaction,""
-182,(」°ロ°)」,dissatisfaction,""
-183,(〃＞＿＜;〃),dissatisfaction,""
-184,(＾＾＃),dissatisfaction,""
-185,(︶︹︺),dissatisfaction,""
-186,(￣ヘ￣),dissatisfaction,""
-187,<(￣ ﹌ ￣)>,dissatisfaction,""
-188,(￣︿￣),dissatisfaction,""
-189,(＞﹏＜),dissatisfaction,""
-190,(--_--),dissatisfaction,""
-191,凸(￣ヘ￣),dissatisfaction,""
-192,ヾ( ￣O￣)ツ,dissatisfaction,""
-193,(⇀‸↼‶),dissatisfaction,""
-194,o(>< )o,dissatisfaction,""
-195,(」＞＜)」,dissatisfaction,""
-196,(ᗒᗣᗕ)՞,dissatisfaction,""
-197,(눈_눈),dissatisfaction,""
-198,(＃`Д´),anger,""
-199,(`皿´＃),anger,""
-200,( ` ω ´ ),anger,""
-201,ヽ( `д´*)ノ,anger,""
-202,(・`ω´・),anger,""
-203,(`ー´),anger,""
-204,ヽ(`⌒´メ)ノ,anger,""
-205,凸(`△´＃),anger,""
-206,( `ε´ ),anger,""
-207,ψ( ` ∇ ´ )ψ,anger,""
-208,ヾ(`ヘ´)ﾉﾞ,anger,""
-209,ヽ(‵﹏´)ノ,anger,""
-210,(ﾒ` ﾛ ´),anger,""
-211,(╬`益´),anger,""
-212,┌∩┐(◣_◢)┌∩┐,anger,""
-213,凸( ` ﾛ ´ )凸,anger,""
-214,Σ(▼□▼メ),anger,""
-215,(°ㅂ°╬),anger,""
-216,ψ(▼へ▼メ)～→,anger,""
-217,(ノ°益°)ノ,anger,""
-218,(҂ `з´ ),anger,""
-219,(‡▼益▼),anger,""
-220,(҂` ﾛ ´)凸,anger,""
-221,((╬◣﹏◢)),anger,""
-222,"٩(╬ʘ益ʘ╬)۶",anger,""
-223,(╬ Ò﹏Ó),anger,""
-224,＼＼٩(๑`^´๑)۶／／,anger,""
-225,(凸ಠ益ಠ)凸,anger,""
-226,↑_(ΦwΦ)Ψ,anger,""
-227,←~(Ψ▼ｰ▼)∈,anger,""
-228,"୧((#Φ益Φ#))୨",anger,""
-229,"٩(ఠ益ఠ)۶",anger,""
-230,(ﾉಥ益ಥ)ﾉ,anger,""
-231,(ノ_<。),sadness,""
-232,(-_-),sadness,""
-233,(´-ω-`),sadness,""
-234,.･ﾟﾟ･(／ω＼)･ﾟﾟ･.,sadness,""
-235,(μ_μ),sadness,""
-236,(ﾉД`),sadness,""
-237,(-ω-、),sadness,""
-238,。゜゜(´Ｏ`) ゜゜。,sadness,""
-239,o(TヘTo),sadness,""
-240,( ; ω ; ),sadness,""
-241,(｡╯︵╰｡),sadness,""
-242,｡･ﾟﾟ*(>д<)*ﾟﾟ･｡,sadness,""
-243,( ﾟ，_ゝ｀),sadness,""
-244,(个_个),sadness,""
-245,"(╯︵╰,)",sadness,""
-246,｡･ﾟ(ﾟ><ﾟ)ﾟ･｡,sadness,""
-247,( ╥ω╥ ),sadness,""
-248,(╯_╰),sadness,""
-249,(╥_╥),sadness,""
-250,.｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡.,sadness,""
-251,(／ˍ・、),sadness,""
-252,(ノ_<、),sadness,""
-253,(╥﹏╥),sadness,""
-254,｡ﾟ(｡ﾉωヽ｡)ﾟ｡,sadness,""
-255,(つω`｡),sadness,""
-256,(｡T ω T｡),sadness,""
-257,(ﾉω･､),sadness,""
-258,･ﾟ･(｡>ω<｡)･ﾟ･,sadness,""
-259,(T_T),sadness,""
-260,(>_<),sadness,""
-261,(っ˘̩╭╮˘̩)っ,sadness,""
-262,｡ﾟ･ (>﹏<) ･ﾟ｡,sadness,""
-263,o(〒﹏〒)o,sadness,""
-264,(｡•́︿•̀｡),sadness,""
-265,(ಥ﹏ಥ),sadness,""
-266,(ಡ‸ಡ),sadness,""
-267,~(>_<~),pain,""
-268,☆⌒(> _ <),pain,""
-269,☆⌒(>。<),pain,""
-270,(☆_@),pain,""
-271,(×_×),pain,""
-272,(x_x),pain,""
-273,(×_×)⌒☆,pain,""
-274,(x_x)⌒☆,pain,""
-275,(×﹏×),pain,""
-276,☆(＃××),pain,""
-277,(＋_＋),pain,""
-278,[ ± _ ± ],pain,""
-279,"٩(× ×)۶",pain,""
-280,_:(´ཀ`」 ∠):_,pain,""
-281,(ﾒ﹏ﾒ),pain,""
-282,(ノωヽ),fear,""
-283,(／。＼),fear,""
-284,(ﾉ_ヽ),fear,""
-285,..・ヾ(。＞＜)シ,fear,""
-286,(″ロ゛),fear,""
-287,(;;;*_*),fear,""
-288,(・人・),fear,""
-289,＼(〇_ｏ)／,fear,""
-290,(/ω＼),fear,""
-291,(/_＼),fear,""
-292,〜(＞＜)〜,fear,""
-293,Σ(°△°|||)︴,fear,""
-294,(((＞＜))),fear,""
-295,{{ (>_<) }},fear,""
-296,＼(º □ º l|l)/,fear,""
-297,〣( ºΔº )〣,fear,""
-298,▓▒░(°◡°)░▒▓,fear,""
-299,ヽ(ー_ー )ノ,indifference,""
-300,ヽ(´ー` )┌,indifference,""
-301,┐(‘～` )┌,indifference,""
-302,ヽ(　￣д￣)ノ,indifference,""
-303,┐(￣ヘ￣)┌,indifference,""
-304,ヽ(￣～￣　)ノ,indifference,""
-305,╮(￣_￣)╭,indifference,""
-306,ヽ(ˇヘˇ)ノ,indifference,""
-307,┐(￣～￣)┌,indifference,""
-308,┐(︶▽︶)┌,indifference,""
-309,╮(￣～￣)╭,indifference,""
-310,¯_(ツ)_/¯,indifference,""
-311,┐( ´ д ` )┌,indifference,""
-312,╮(︶︿︶)╭,indifference,""
-313,┐(￣∀￣)┌,indifference,""
-314,┐( ˘ ､ ˘ )┌,indifference,""
-315,╮(︶▽︶)╭,indifference,""
-316,╮( ˘ ､ ˘ )╭,indifference,""
-317,┐( ˘_˘ )┌,indifference,""
-318,╮( ˘_˘ )╭,indifference,""
-319,┐(￣ヮ￣)┌,indifference,""
-320,ᕕ( ᐛ )ᕗ,indifference,""
-321,┐(シ)┌,indifference,""
-322,(￣ω￣;),confusion,""
-323,σ(￣、￣〃),confusion,""
-324,(￣～￣;),confusion,""
-325,(-_-;)・・・,confusion,""
-326,┐('～`;)┌,confusion,""
-327,(・_・ヾ,confusion,""
-328,(〃￣ω￣〃ゞ,confusion,""
-329,┐(￣ヘ￣;)┌,confusion,""
-330,(・_・;),confusion,""
-331,(￣_￣)・・・,confusion,""
-332,╮(￣ω￣;)╭,confusion,""
-333,(¯ . ¯;),confusion,""
-334,(＠_＠),confusion,""
-335,(・・;)ゞ,confusion,""
-336,Σ(￣。￣ﾉ),confusion,""
-337,(・・ ) ?,confusion,""
-338,(•ิ_•ิ)?,confusion,""
-339,(◎ ◎)ゞ,confusion,""
-340,(ーー;),confusion,""
-341,ლ(ಠ_ಠ ლ),confusion,""
-342,"ლ(¯ロ¯""ლ)",confusion,""
-343,(¯ . ¯٥),confusion,""
-344,(¯ ¯٥),confusion,""
-345,(￢_￢),doubt,""
-346,(→_→),doubt,""
-347,(￢ ￢),doubt,""
-348,(￢‿￢ ),doubt,""
-349,(¬_¬ ),doubt,""
-350,(←_←),doubt,""
-351,(¬ ¬ ),doubt,""
-352,(¬‿¬ ),doubt,""
-353,(↼_↼),doubt,""
-354,(⇀_⇀),doubt,""
-355,(ᓀ ᓀ),doubt,""
-356,w(°ｏ°)w,surprise,""
-357,ヽ(°〇°)ﾉ,surprise,""
-358,Σ(O_O),surprise,""
-359,Σ(°ロ°),surprise,""
-360,(⊙_⊙),surprise,""
-361,(o_O),surprise,""
-362,(O_O;),surprise,""
-363,(O.O),surprise,""
-364,(°ロ°) !,surprise,""
-365,(o_O) !,surprise,""
-366,(□_□),surprise,""
-367,Σ(□_□),surprise,""
-368,∑(O_O;),surprise,""
-369,( : ౦ ‸ ౦ : ),surprise,""
-370,(*・ω・)ﾉ,greeting,""
-371,(￣▽￣)ノ,greeting,""
-372,(°▽°)/,greeting,""
-373,( ´ ∀ ` )ﾉ,greeting,""
-374,(^-^*)/,greeting,""
-375,(＠´ー`)ﾉﾞ,greeting,""
-376,(´• ω •`)ﾉ,greeting,""
-377,( ° ∀ ° )ﾉﾞ,greeting,""
-378,ヾ(*'▽'*),greeting,""
-379,＼(⌒▽⌒),greeting,""
-380,ヾ(☆▽☆),greeting,""
-381,( ´ ▽ ` )ﾉ,greeting,""
-382,(^０^)ノ,greeting,""
-383,~ヾ(・ω・),greeting,""
-384,(・∀・)ノ,greeting,""
-385,ヾ(・ω・*),greeting,""
-386,(*°ｰ°)ﾉ,greeting,""
-387,(・_・)ノ,greeting,""
-388,(o´ω`o)ﾉ,greeting,""
-389,( ´ ▽ ` )/,greeting,""
-390,(￣ω￣)/,greeting,""
-391,( ´ ω ` )ノﾞ,greeting,""
-392,(⌒ω⌒)ﾉ,greeting,""
-393,(o^ ^o)/,greeting,""
-394,(≧▽≦)/,greeting,""
-395,(✧∀✧)/,greeting,""
-396,(o´▽`o)ﾉ,greeting,""
-397,(￣▽￣)/,greeting,""
-398,(づ￣ ³￣)づ,hugging,""
-399,(つ≧▽≦)つ,hugging,""
-400,(つ✧ω✧)つ,hugging,""
-401,(づ ◕‿◕ )づ,hugging,""
-402,(⊃｡•́‿•̀｡)⊃,hugging,""
-403,(つ . •́ _ʖ •̀ .)つ,hugging,""
-404,(っಠ‿ಠ)っ,hugging,""
-405,(づ◡﹏◡)づ,hugging,""
-406,⊂(´• ω •`⊂),hugging,""
-407,⊂(･ω･*⊂),hugging,""
-408,⊂(￣▽￣)⊃,hugging,""
-409,⊂( ´ ▽ ` )⊃,hugging,""
-410,( ~*-*)~,hugging,""
-411,(｡•̀ᴗ-)✧,hugging,""
-412,(^_~),winking,""
-413,( ﾟｏ⌒),winking,""
-414,(^_-)≡☆,winking,""
-415,(^ω~),winking,""
-416,(>ω^),winking,""
-417,(~人^),winking,""
-418,(^_-),winking,""
-419,( -_・),winking,""
-420,(^_<)〜☆,winking,""
-421,(^人<)〜☆,winking,""
-422,☆⌒(≧▽​° ),winking,""
-423,☆⌒(ゝ。∂),winking,""
-424,(^_<),winking,""
-425,(^_−)☆,winking,""
-426,(･ω<)☆,winking,""
-427,(^.~)☆,winking,""
-428,(^.~),winking,""
-429,m(_ _)m,apologizing,""
-430,(シ_ _)シ,apologizing,""
-431,m(. .)m,apologizing,""
-432,<(_ _)>,apologizing,""
-433,人(_ _*),apologizing,""
-434,(*_ _)人,apologizing,""
-435,m(_ _;m),apologizing,""
-436,(m;_ _)m,apologizing,""
-437,(シ. .)シ,apologizing,""
-438,(*￣ii￣),nosebleeding,""
-439,(￣ﾊ￣*),nosebleeding,""
-440,(￣ﾊ￣),nosebleeding,""
-441,(＾་།＾),nosebleeding,""
-442,(＾〃＾),nosebleeding,""
-443,(￣ ¨ヽ￣),nosebleeding,""
-444,(￣ ;￣),nosebleeding,""
-445,(￣ ;;￣),nosebleeding,""
-446,|･ω･),hiding,""
-447,ﾍ(･_|,hiding,""
-448,|ω･)ﾉ,hiding,""
-449,ヾ(･|,hiding,""
-450,|д･),hiding,""
-451,|_￣)),hiding,""
-452,|▽//),hiding,""
-453,┬┴┬┴┤(･_├┬┴┬┴,hiding,""
-454,┬┴┬┴┤･ω･)ﾉ,hiding,""
-455,┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴,hiding,""
-456,┬┴┬┴┤(･_├┬┴┬┴,hiding,""
-457,|_・),hiding,""
-458,|･д･)ﾉ,hiding,""
-459,|ʘ‿ʘ)╯,hiding,""
-460,__φ(．．),writing,""
-461,( ￣ー￣)φ__,writing,""
-462,__φ(。。),writing,""
-463,__φ(．．;),writing,""
-464,ヾ( `ー´)シφ__,writing,""
-465,__〆(￣ー￣ ),writing,""
-466,....φ(・∀・*),writing,""
-467,___〆(・∀・),writing,""
-468,( ^▽^)ψ__,writing,""
-469,....φ(︶▽︶)φ....,writing,""
-470,( . .)φ__,writing,""
-471,__φ(◎◎ヘ),writing,""
-472,☆ﾐ(o*･ω･)ﾉ,running,""
-473,C= C= C= C= C=┌(;・ω・)┘,running,""
-474,─=≡Σ((( つ＞＜)つ,running,""
-475,ε=ε=ε=ε=┌(;￣▽￣)┘,running,""
-476,ε=ε=┌( >_<)┘,running,""
-477,C= C= C= C=┌( `ー´)┘,running,""
-478,ε===(っ≧ω≦)っ,running,""
-479,ヽ(￣д￣;)ノ=3=3=3,running,""
-480,。。。ミヽ(。＞＜)ノ,running,""
-481,[(－－)]..zzZ,sleeping,""
-482,(－_－) zzZ,sleeping,""
-483,(∪｡∪)｡｡｡zzZ,sleeping,""
-484,(－ω－) zzZ,sleeping,""
-485,(￣o￣) zzZZzzZZ,sleeping,""
-486,(( _ _ ))..zzzZZ,sleeping,""
-487,(￣ρ￣)..zzZZ,sleeping,""
-488,(－.－)...zzz,sleeping,""
-489,(＿ ＿*) Z z z,sleeping,""
-490,(=^･ω･^=),cat,""
-491,(=^･ｪ･^=),cat,""
-492,(=①ω①=),cat,""
-493,( =ω=)..nyaa,cat,""
-494,(= ; ｪ ; =),cat,""
-495,(=`ω´=),cat,""
-496,(=^‥^=),cat,""
-497,( =ノωヽ=),cat,""
-498,(=⌒‿‿⌒=),cat,""
-499,(=^ ◡ ^=),cat,""
-500,(=^-ω-^=),cat,""
-501,ヾ(=`ω´=)ノ”,cat,""
-502,(＾• ω •＾),cat,""
-503,(/ =ω=)/,cat,""
-504,ฅ(•ㅅ•❀)ฅ,cat,""
-505,ฅ(• ɪ •)ฅ,cat,""
-506,ଲ(ⓛ ω ⓛ)ଲ,cat,""
-507,(^=◕ᴥ◕=^),cat,""
-508,( =ω= ),cat,""
-509,"",cat,""
-510,ଲ(ⓛ ω ⓛ)ଲ,cat,""
-511,(^=◕ᴥ◕=^),cat,""
-512,( =ω= ),cat,""
-513,(^˵◕ω◕˵^),cat,""
-514,(^◔ᴥ◔^),cat,""
-515,(^◕ᴥ◕^),cat,""
-516,ต(=ω=)ต,cat,""
-517,( Φ ω Φ ),cat,""
-518,ฅ(^◕ᴥ◕^)ฅ,cat,""
-519,( ´(ｴ)ˋ ),bear,""
-520,(*￣(ｴ)￣*),bear,""
-521,ヽ(￣(ｴ)￣)ﾉ,bear,""
-522,(／￣(ｴ)￣)／,bear,""
-523,(￣(ｴ)￣),bear,""
-524,ヽ( ˋ(ｴ)´ )ﾉ,bear,""
-525,⊂(￣(ｴ)￣)⊃,bear,""
-526,(／(ｴ)＼),bear,""
-527,⊂(´(ェ)ˋ)⊃,bear,""
-528,(/-(ｴ)-＼),bear,""
-529,(/°(ｴ)°)/,bear,""
-530,ʕ ᵔᴥᵔ ʔ,bear,""
-531,ʕ •ᴥ• ʔ,bear,""
-532,ʕ •̀ ω •́ ʔ,bear,""
-533,ʕ •̀ o •́ ʔ,bear,""
-534,ʕಠᴥಠʔ,bear,""
-535,∪＾ェ＾∪,dog,""
-536,∪･ω･∪,dog,""
-537,∪￣-￣∪,dog,""
-538,∪･ｪ･∪,dog,""
-539,Ｕ^皿^Ｕ,dog,""
-540,ＵＴｪＴＵ,dog,""
-541,U^ｪ^U,dog,""
-542,V●ᴥ●V,dog,""
-543,U・ᴥ・U,dog,""
-544,／(≧ x ≦)＼,rabbit,""
-545,／(･ × ･)＼,rabbit,""
-546,／(=´x`=)＼,rabbit,""
-547,／(^ x ^)＼,rabbit,""
-548,／(=･ x ･=)＼,rabbit,""
-549,／(^ × ^)＼,rabbit,""
-550,／(＞×＜)＼,rabbit,""
-551,／(˃ᆺ˂)＼,rabbit,""
-552,( ´(00)ˋ ),pig,""
-553,(￣(ω)￣),pig,""
-554,ヽ( ˋ(00)´ )ノ,pig,""
-555,( ´(oo)ˋ ),pig,""
-556,＼(￣(oo)￣)／,pig,""
-557,｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡,pig,""
-558,(￣(00)￣),pig,""
-559,(ˆ(oo)ˆ),pig,""
-560,(￣Θ￣),bird,""
-561,(`･Θ･´),bird,""
-562,( ˋ Θ ´ ),bird,""
-563,(◉Θ◉),bird,""
-564,＼( ˋ Θ ´ )／,bird,""
-565,(･θ･),bird,""
-566,(・Θ・),bird,""
-567,ヾ(￣◇￣)ノ〃,bird,""
-568,(･Θ･),bird,""
-569,(°)#))<<,fish,""
-570,<・ )))><<,fish,""
-571,ζ°)))彡,fish,""
-572,>°))))彡,fish,""
-573,(°))<<,fish,""
-574,>^)))<～～,fish,""
-575,≧( ° ° )≦,fish,""
-576,/╲/╭(ఠఠ益ఠఠ)╮/╱,spider,""
-577,/╲/╭(ರರ⌓ರರ)╮/╱,spider,""
-578,/╲/╭༼ ººل͟ºº ༽╮/╱,spider,""
-579,/╲/╭( ͡°͡° ͜ʖ ͡°͡°)╮/╱,spider,""
-580,/╲/╭[ ᴼᴼ ౪ ᴼᴼ]╮/╱,spider,""
-581,/╲/( •̀ ω •́ )/╱,spider,""
-582,/╲/╭[☉﹏☉]╮/╱,spider,""
-583,ヾ(・ω・)メ(・ω・)ノ,friends,""
-584,ヽ(∀° )人( °∀)ノ,friends,""
-585,ヽ( ⌒o⌒)人(⌒-⌒ )ﾉ,friends,""
-586,(*^ω^)八(⌒▽⌒)八(-‿‿- )ヽ,friends,""
-587,＼(＾∀＾)メ(＾∀＾)ノ,friends,""
-588,ヾ(￣ー￣(≧ω≦*)ゝ,friends,""
-589,ヽ( ⌒ω⌒)人(=^‥^= )ﾉ,friends,""
-590,ヽ(≧◡≦)八(o^ ^o)ノ,friends,""
-591,(*・∀・)爻(・∀・*),friends,""
-592,｡*:☆(・ω・人・ω・)｡:゜☆｡,friends,""
-593,o(^^o)(o^^o)(o^^o)(o^^)o,friends,""
-594,(((￣(￣(￣▽￣)￣)￣))),friends,""
-595,(°(°ω(°ω°(☆ω☆)°ω°)ω°)°),friends,""
-596,ヾ(・ω・`)ノヾ(´・ω・)ノ゛,friends,""
-597,Ψ( `∀)(∀´ )Ψ,friends,""
-598,(っ˘▽˘)(˘▽˘)˘▽˘ς),friends,""
-599,(((*°▽°*)八(*°▽°*))),friends,""
-600,☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆,friends,""
-601,(*＾ω＾)人(＾ω＾*),friends,""
-602,"٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶",friends,""
-603,(☞°ヮ°)☞ ☜(°ヮ°☜),friends,""
-604,＼(▽￣  (￣▽￣) / ￣▽)／,friends,""
-605,( ˙▿˙ )/( ˙▿˙ )/,friends,""
-606,ヽ( ･∀･)ﾉ_θ彡☆Σ(ノ `Д´)ノ,enemies,""
-607,(*´∇`)┌θ☆(ﾉ>_<)ﾉ,enemies,""
-608,( ￣ω￣)ノﾞ⌒☆ﾐ(o _ _)o,enemies,""
-609,(*`0´)θ☆(メ°皿°)ﾉ,enemies,""
-610,(o¬‿¬o )...☆ﾐ(*x_x),enemies,""
-611,(╬￣皿￣)=○＃(￣#)３￣),enemies,""
-612,(; -_-)――――――C<―_-),enemies,""
-613,＜( ￣︿￣)︵θ︵θ︵☆(＞口＜－),enemies,""
-614,(￣ε(#￣)☆╰╮o(￣▽￣///),enemies,""
-615,ヽ(>_<ヽ) ―⊂|=0ヘ(^‿^ ),enemies,""
-616,ヘ(>_<ヘ) ￢o(￣‿￣ﾒ),enemies,""
-617,",,((( ￣□)_／ ＼_(○￣ ))),,",enemies,""
-618,(҂` ﾛ ´)︻デ═一 ＼(º □ º l|l)/,enemies,""
-619,(╯°Д°)╯︵ /(.□ . ＼),enemies,""
-620,(¬_¬'')ԅ(￣ε￣ԅ),enemies,""
-621,/( .□.)＼ ︵╰(°益°)╯︵ /(.□. /),enemies,""
-622,(ﾉ-.-)ﾉ….((((((((((((●~* ( >_<),enemies,""
-623,!!(ﾒ￣ ￣)_θ☆°0°)/,enemies,""
-624,(`⌒*)O-(`⌒´Q),enemies,""
-625,(((ง’ω’)و三 ง’ω’)ڡ≡　☆⌒ﾐ((x_x),enemies,""
-626,(งಠ_ಠ)ง　σ( •̀ ω •́ σ),enemies,""
-627,(っ•﹏•)っ ✴==≡눈٩(`皿´҂)ง,enemies,""
-628,(｢• ω •)｢ (⌒ω⌒`),enemies,""
-629,( °ᴗ°)~ð (/❛o❛),enemies,""
-630,( ・∀・)・・・--------☆,weapons,""
-631,(/-_・)/D・・・・・------ →,weapons,""
-632,(^ω^)ノﾞ(((((((((●～*,weapons,""
-633,( -ω-)／占~~~~~,weapons,""
-634,(/・・)ノ　　 (( く ((へ,weapons,""
-635,―⊂|=0ヘ(^^ ),weapons,""
-636,○∞∞∞∞ヽ(^ー^ ),weapons,""
-637,(; ・_・)――――C,weapons,""
-638,(ಠ o ಠ)¤=[]:::::>,weapons,""
-639,(*＾＾)/~~~~~~~~~~◎,weapons,""
-640,￢o(￣-￣ﾒ),weapons,""
-641,―(T_T)→,weapons,""
-642,((( ￣□)_／,weapons,""
-643,(ﾒ` ﾛ ´)︻デ═一,weapons,""
-644,( ´-ω･)︻┻┳══━一,weapons,""
-645,(ﾒ￣▽￣)︻┳═一,weapons,""
-646,✴==≡눈٩(`皿´҂)ง,weapons,""
-647,Q(`⌒´Q),weapons,""
-648,(ノ ˘_˘)ノ　ζ|||ζ　ζ|||ζ　ζ|||ζ,magic,""
-649,(ﾉ≧∀≦)ﾉ ‥…━━━★,magic,""
-650,"(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆",magic,""
-651,(ノ°∀°)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆,magic,""
-652,╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ,magic,""
-653,(＃￣□￣)o━∈・・━━━━☆,magic,""
-654,(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿,magic,""
-655,(∩ᄑ_ᄑ)⊃━☆ﾟ*･｡*･:≡( ε:),magic,""
-656,(/￣ー￣)/~~☆’.･.･:★’.･.･:☆,magic,""
-657,(∩` ﾛ ´)⊃━炎炎炎炎炎,magic,""
-658,(っ˘ڡ˘ς),food,""
-659,( o˘◡˘o) ┌iii┐,food,""
-660,(　’ω’)旦~~,food,""
-661,( ˘▽˘)っ♨,food,""
-662,♨o(>_<)o♨,food,""
-663,( ・ω・)o-{{[〃]}},food,""
-664,(　・ω・)⊃-[二二],food,""
-665,( ・・)つ―{}@{}@{}-,food,""
-666,( ・・)つ-●●●,food,""
-667,(*´ー`)旦 旦(￣ω￣*),food,""
-668,(*´з`)口ﾟ｡ﾟ口(・∀・ ),food,""
-669,( o^ ^o)且 且(´ω`*),food,""
-670,( ￣▽￣)[] [](≧▽≦ ),food,""
-671,( *^^)o∀*∀o(^^* ),food,""
-672,( ^^)_旦~~　 ~~U_(^^ ),food,""
-673,(*￣▽￣)旦 且(´∀`*),food,""
-674,-●●●-ｃ(・・ ),food,""
-675,( ・・)つ―●○◎-,food,""
-676,ヾ(´〇`)ﾉ♪♪♪,music,""
-677,ヘ(￣ω￣ヘ),music,""
-678,(〜￣▽￣)〜,music,""
-679,〜(￣▽￣〜),music,""
-680,ヽ(o´∀`)ﾉ♪♬,music,""
-681,(ﾉ≧∀≦)ﾉ,music,""
-682,♪ヽ(^^ヽ)♪,music,""
-683,♪(/_ _ )/♪,music,""
-684,♪♬((d⌒ω⌒b))♬♪,music,""
-685,└(￣-￣└)),music,""
-686,((┘￣ω￣)┘,music,""
-687,√(￣‥￣√),music,""
-688,└(＾＾)┐,music,""
-689,┌(＾＾)┘,music,""
-690,＼(￣▽￣)＼,music,""
-691,／(￣▽￣)／,music,""
-692,(￣▽￣)/♫•*¨*•.¸¸♪,music,""
-693,(^_^♪),music,""
-694,(~˘▽˘)~,music,""
-695,~(˘▽˘~),music,""
-696,ヾ(⌐■_■)ノ♪,music,""
-697,(〜￣△￣)〜,music,""
-698,(~‾▽‾)~,music,""
-699,~(˘▽˘)~,music,""
-700,乁( • ω •乁),music,""
-701,(｢• ω •)｢,music,""
-702,⁽⁽◝( • ω • )◜⁾⁾,music,""
-703,✺◟( • ω • )◞✺,music,""
-704,♬♫♪◖(● o ●)◗♪♫♬,music,""
-705,( ˘ ɜ˘) ♬♪♫,music,""
-706,♪♪♪ ヽ(ˇ∀ˇ )ゞ,music,""
-707,(ˇ▽ˇ)ノ♪♬♫,music,""
-708,( ^^)p_____|_o____q(^^ ),games,""
-709,(／o^)/ °⊥ ＼(^o＼),games,""
-710,!(;ﾟoﾟ)o/￣￣￣￣￣￣￣~ >ﾟ))))彡,games,""
-711,ヽ(^o^)ρ┳┻┳°σ(^o^)ノ,games,""
-712,(／_^)／　　●　＼(^_＼),games,""
-713,"""( (≡|≡))_／ ＼_((≡|≡) )""",games,""
-714,( ノ-_-)ノﾞ_□ VS □_ヾ(^-^ヽ),games,""
-715,ヽ(；^ ^)ノﾞ ．．．...___〇,games,""
-716,(=O*_*)=O Q(*_*Q),games,""
-717,Ю　○三　＼(￣^￣＼),games,""
-718,( ͡° ͜ʖ ͡°),faces,""
-719,( ͡° ʖ̯ ͡°),faces,""
-720,( ͠° ͟ʖ ͡°),faces,""
-721,( ͡ᵔ ͜ʖ ͡ᵔ),faces,""
-722,( . •́ _ʖ •̀ .),faces,""
-723,( ఠ ͟ʖ ఠ),faces,""
-724,( ͡ಠ ʖ̯ ͡ಠ),faces,""
-725,( ಠ ʖ̯ ಠ),faces,""
-726,( ಠ ͜ʖ ಠ),faces,""
-727,( ಥ ʖ̯ ಥ),faces,""
-728,( ͡• ͜ʖ ͡• ),faces,""
-729,( ･ิ ͜ʖ ･ิ),faces,""
-730,( ͡ ͜ʖ ͡ ),faces,""
-731,(≖ ͜ʖ≖),faces,""
-732,(ʘ ʖ̯ ʘ),faces,""
-733,(ʘ ͟ʖ ʘ),faces,""
-734,(ʘ ͜ʖ ʘ),faces,""
-735,(;´༎ຶٹ༎ຶ`),faces,""
-736,"٩(ˊ〇ˋ*)و",special,waking up
-737,(￣^￣)ゞ,special,military salutation
-738,(－‸ლ),special,facepalm
-739,(╯°益°)╯彡┻━┻,special,throwing table in anger
-740,(╮°-°)╮┳━━┳ ( ╯°□°)╯ ┻━━┻,special,taking table and going mad
-741,┬─┬ノ( º _ ºノ),special,putting table back
-742,(oT-T)尸,special,surrender
-743,( ͡° ͜ʖ ͡°),special,meme / Lenny face
-744,[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅],special,money
-745,(ಠ_ಠ),special,meme / look of disapproval
-746,"౦０o ｡ (‾́。‾́ )y~~",special,smoking
-747,(￣﹃￣),special,hungry
-748,(x(x_(x_x(O_o)x_x)_x)x),special,alive among zombies
-749,(　･ω･)☞,special,pointing
-750,(⌐■_■),special,with glasses
-751,(◕‿◕✿),special,cute face
-752,(　￣.)o-　　【　TV　】,special,watching TV
-753,｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ,special,catching umbrella in the rain
-754,‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵,special,drowning
-755,( • )( • )ԅ(≖‿≖ԅ),special,emm... try to figure out what he's doing
-756,( ＾▽＾)っ✂╰⋃╯,special,punishment for cheating
-757,〜〜(／￣▽)／　〜ф,special,chasing a butterfly
-758,ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚,special,angel
-759,ଘ(੭ˊ꒳​ˋ)੭✧,special,one more angel
-760,_(:3 」∠)_,special,popular lying emoticon
-761,∠( ᐛ 」∠)_,special,another lying emoticon
+"category","value"
+joy,(* ^ ω ^)
+joy,(´ ∀ ` *)
+joy,"٩(◕‿◕｡)۶"
+joy,☆*:.｡.o(≧▽≦)o.｡.:*☆
+joy,(o^▽^o)
+joy,(⌒▽⌒)☆
+joy,<(￣︶￣)>
+joy,。.:☆*:･'(*⌒―⌒*)))
+joy,ヽ(・∀・)ﾉ
+joy,(´｡• ω •｡`)
+joy,(￣ω￣)
+joy,｀;:゛;｀;･(°ε° )
+joy,(o･ω･o)
+joy,(＠＾◡＾)
+joy,ヽ(*・ω・)ﾉ
+joy,(o_ _)ﾉ彡☆
+joy,(^人^)
+joy,(o´▽`o)
+joy,(*´▽`*)
+joy,｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡
+joy,( ´ ω ` )
+joy,(((o(*°▽°*)o)))
+joy,(≧◡≦)
+joy,(o´∀`o)
+joy,(´• ω •`)
+joy,(＾▽＾)
+joy,(⌒ω⌒)
+joy,∑d(°∀°d)
+joy,╰(▔∀▔)╯
+joy,(─‿‿─)
+joy,(*^‿^*)
+joy,ヽ(o^ ^o)ﾉ
+joy,(✯◡✯)
+joy,(◕‿◕)
+joy,(*≧ω≦*)
+joy,(☆▽☆)
+joy,(⌒‿⌒)
+joy,＼(≧▽≦)／
+joy,ヽ(o＾▽＾o)ノ
+joy,☆ ～('▽^人)
+joy,(*°▽°*)
+joy,"٩(｡•́‿•̀｡)۶"
+joy,(✧ω✧)
+joy,ヽ(*⌒▽⌒*)ﾉ
+joy,(´｡• ᵕ •｡`)
+joy,( ´ ▽ ` )
+joy,(￣▽￣)
+joy,╰(*´︶`*)╯
+joy,ヽ(>∀<☆)ノ
+joy,o(≧▽≦)o
+joy,(☆ω☆)
+joy,(っ˘ω˘ς )
+joy,＼(￣▽￣)／
+joy,(*¯︶¯*)
+joy,＼(＾▽＾)／
+joy,"٩(◕‿◕)۶"
+joy,(o˘◡˘o)
+joy,(★ω★)/
+joy,(^ヮ^)/
+joy,(〃＾▽＾〃)
+joy,(╯✧▽✧)╯
+joy,o(>ω<)o
+joy,o( ❛ᴗ❛ )o
+joy,｡ﾟ(TヮT)ﾟ｡
+joy,( ‾́ ◡ ‾́ )
+joy,(ﾉ´ヮ`)ﾉ*: ･ﾟ
+joy,(b ᵔ▽ᵔ)b
+joy,(๑˃ᴗ˂)ﻭ
+joy,(๑˘︶˘๑)
+joy,( ˙꒳​˙ )
+joy,(*꒦ິ꒳꒦ີ)
+joy,°˖✧◝(⁰▿⁰)◜✧˖°
+joy,(´･ᴗ･ ` )
+joy,(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+joy,(„• ֊ •„)
+joy,(.❛ ᴗ ❛.)
+joy,(⁀ᗢ⁀)
+joy,(￢‿￢ )
+joy,(¬‿¬ )
+joy,(*￣▽￣)b
+joy,( ˙▿˙ )
+joy,(¯▿¯)
+joy,( ◕▿◕ )
+joy,＼(٥⁀▽⁀ )／
+joy,(„• ᴗ •„)
+joy,(ᵔ◡ᵔ)
+joy,( ´ ▿ ` )
+love,(ﾉ´ з `)ノ
+love,(♡μ_μ)
+love,(*^^*)♡
+love,☆⌒ヽ(*'､^*)chu
+love,(♡-_-♡)
+love,(￣ε￣＠)
+love,ヽ(♡‿♡)ノ
+love,( ´ ∀ `)ノ～ ♡
+love,(─‿‿─)♡
+love,(´｡• ᵕ •｡`) ♡
+love,(*♡∀♡)
+love,(｡・//ε//・｡)
+love,(´ ω `♡)
+love,♡( ◡‿◡ )
+love,(◕‿◕)♡
+love,(/▽＼*)｡o○♡
+love,(ღ˘⌣˘ღ)
+love,(♡°▽°♡)
+love,♡(｡- ω -)
+love,♡ ～('▽^人)
+love,(´• ω •`) ♡
+love,(´ ε ` )♡
+love,(´｡• ω •｡`) ♡
+love,( ´ ▽ ` ).｡ｏ♡
+love,╰(*´︶`*)╯♡
+love,(*˘︶˘*).｡.:*♡
+love,(♡˙︶˙♡)
+love,♡＼(￣▽￣)／♡
+love,(≧◡≦) ♡
+love,(⌒▽⌒)♡
+love,(*¯ ³¯*)♡
+love,(っ˘з(˘⌣˘ ) ♡
+love,♡ (˘▽˘>ԅ( ˘⌣˘)
+love,( ˘⌣˘)♡(˘⌣˘ )
+love,(/^-^(^ ^*)/ ♡
+love,"٩(♡ε♡)۶"
+love,σ(≧ε≦σ) ♡
+love,♡ (⇀ 3 ↼)
+love,♡ (￣З￣)
+love,(❤ω❤)
+love,(˘∀˘)/(μ‿μ) ❤
+love,❤ (ɔˆз(ˆ⌣ˆc)
+love,(´♡‿♡`)
+love,(°◡°♡)
+love,Σ>―(〃°ω°〃)♡→
+love,"(´,,•ω•,,)♡"
+love,(´꒳`)♡
+embarassment,(⌒_⌒;)
+embarassment,(o^ ^o)
+embarassment,(*/ω＼)
+embarassment,(*/。＼)
+embarassment,(*/_＼)
+embarassment,(*ﾉωﾉ)
+embarassment,(o-_-o)
+embarassment,(*μ_μ)
+embarassment,( ◡‿◡ *)
+embarassment,(ᵔ.ᵔ)
+embarassment,(*ﾉ∀`*)
+embarassment,(//▽//)
+embarassment,(//ω//)
+embarassment,(ノ*°▽°*)
+embarassment,(*^.^*)
+embarassment,(*ﾉ▽ﾉ)
+embarassment,(￣▽￣*)ゞ
+embarassment,(⁄ ⁄•⁄ω⁄•⁄ ⁄)
+embarassment,(*/▽＼*)
+embarassment,(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+embarassment,(„ಡωಡ„)
+embarassment,(ง ื▿ ื)ว
+embarassment,( 〃▽〃)
+embarassment,(/▿＼ )
+embarassment,(///￣ ￣///)
+sympathy,(ノ_<。)ヾ(´ ▽ ` )
+sympathy,｡･ﾟ･(ﾉД`)ヽ(￣ω￣ )
+sympathy,ρ(- ω -、)ヾ(￣ω￣; )
+sympathy,ヽ(￣ω￣(。。 )ゝ
+sympathy,(*´ I `)ﾉﾟ(ﾉД｀ﾟ)ﾟ｡
+sympathy,ヽ(~_~(・_・ )ゝ
+sympathy,(ﾉ_；)ヾ(´ ∀ ` )
+sympathy,(; ω ; )ヾ(´∀`* )
+sympathy,(*´ー)ﾉ(ノд`)
+sympathy,(´-ω-`( _ _ )
+sympathy,(っ´ω`)ﾉ(╥ω╥)
+sympathy,(ｏ・_・)ノ”(ノ_<、)
+dissatisfaction,(＃＞＜)
+dissatisfaction,(；⌣̀_⌣́)
+dissatisfaction,☆ｏ(＞＜；)○
+dissatisfaction,(￣ ￣|||)
+dissatisfaction,(；￣Д￣)
+dissatisfaction,(￣□￣」)
+dissatisfaction,(＃￣0￣)
+dissatisfaction,(＃￣ω￣)
+dissatisfaction,(￢_￢;)
+dissatisfaction,(＞ｍ＜)
+dissatisfaction,(」°ロ°)」
+dissatisfaction,(〃＞＿＜;〃)
+dissatisfaction,(＾＾＃)
+dissatisfaction,(︶︹︺)
+dissatisfaction,(￣ヘ￣)
+dissatisfaction,<(￣ ﹌ ￣)>
+dissatisfaction,(￣︿￣)
+dissatisfaction,(＞﹏＜)
+dissatisfaction,(--_--)
+dissatisfaction,凸(￣ヘ￣)
+dissatisfaction,ヾ( ￣O￣)ツ
+dissatisfaction,(⇀‸↼‶)
+dissatisfaction,o(>< )o
+dissatisfaction,(」＞＜)」
+dissatisfaction,(ᗒᗣᗕ)՞
+dissatisfaction,(눈_눈)
+anger,(＃`Д´)
+anger,(`皿´＃)
+anger,( ` ω ´ )
+anger,ヽ( `д´*)ノ
+anger,(・`ω´・)
+anger,(`ー´)
+anger,ヽ(`⌒´メ)ノ
+anger,凸(`△´＃)
+anger,( `ε´ )
+anger,ψ( ` ∇ ´ )ψ
+anger,ヾ(`ヘ´)ﾉﾞ
+anger,ヽ(‵﹏´)ノ
+anger,(ﾒ` ﾛ ´)
+anger,(╬`益´)
+anger,┌∩┐(◣_◢)┌∩┐
+anger,凸( ` ﾛ ´ )凸
+anger,Σ(▼□▼メ)
+anger,(°ㅂ°╬)
+anger,ψ(▼へ▼メ)～→
+anger,(ノ°益°)ノ
+anger,(҂ `з´ )
+anger,(‡▼益▼)
+anger,(҂` ﾛ ´)凸
+anger,((╬◣﹏◢))
+anger,"٩(╬ʘ益ʘ╬)۶"
+anger,(╬ Ò﹏Ó)
+anger,＼＼٩(๑`^´๑)۶／／
+anger,(凸ಠ益ಠ)凸
+anger,↑_(ΦwΦ)Ψ
+anger,←~(Ψ▼ｰ▼)∈
+anger,"୧((#Φ益Φ#))୨"
+anger,"٩(ఠ益ఠ)۶"
+anger,(ﾉಥ益ಥ)ﾉ
+sadness,(ノ_<。)
+sadness,(-_-)
+sadness,(´-ω-`)
+sadness,.･ﾟﾟ･(／ω＼)･ﾟﾟ･.
+sadness,(μ_μ)
+sadness,(ﾉД`)
+sadness,(-ω-、)
+sadness,。゜゜(´Ｏ`) ゜゜。
+sadness,o(TヘTo)
+sadness,( ; ω ; )
+sadness,(｡╯︵╰｡)
+sadness,｡･ﾟﾟ*(>д<)*ﾟﾟ･｡
+sadness,( ﾟ，_ゝ｀)
+sadness,(个_个)
+sadness,"(╯︵╰,)"
+sadness,｡･ﾟ(ﾟ><ﾟ)ﾟ･｡
+sadness,( ╥ω╥ )
+sadness,(╯_╰)
+sadness,(╥_╥)
+sadness,.｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡.
+sadness,(／ˍ・、)
+sadness,(ノ_<、)
+sadness,(╥﹏╥)
+sadness,｡ﾟ(｡ﾉωヽ｡)ﾟ｡
+sadness,(つω`｡)
+sadness,(｡T ω T｡)
+sadness,(ﾉω･､)
+sadness,･ﾟ･(｡>ω<｡)･ﾟ･
+sadness,(T_T)
+sadness,(>_<)
+sadness,(っ˘̩╭╮˘̩)っ
+sadness,｡ﾟ･ (>﹏<) ･ﾟ｡
+sadness,o(〒﹏〒)o
+sadness,(｡•́︿•̀｡)
+sadness,(ಥ﹏ಥ)
+sadness,(ಡ‸ಡ)
+pain,~(>_<~)
+pain,☆⌒(> _ <)
+pain,☆⌒(>。<)
+pain,(☆_@)
+pain,(×_×)
+pain,(x_x)
+pain,(×_×)⌒☆
+pain,(x_x)⌒☆
+pain,(×﹏×)
+pain,☆(＃××)
+pain,(＋_＋)
+pain,[ ± _ ± ]
+pain,"٩(× ×)۶"
+pain,_:(´ཀ`」 ∠):_
+pain,(ﾒ﹏ﾒ)
+fear,(ノωヽ)
+fear,(／。＼)
+fear,(ﾉ_ヽ)
+fear,..・ヾ(。＞＜)シ
+fear,(″ロ゛)
+fear,(;;;*_*)
+fear,(・人・)
+fear,＼(〇_ｏ)／
+fear,(/ω＼)
+fear,(/_＼)
+fear,〜(＞＜)〜
+fear,Σ(°△°|||)︴
+fear,(((＞＜)))
+fear,{{ (>_<) }}
+fear,＼(º □ º l|l)/
+fear,〣( ºΔº )〣
+fear,▓▒░(°◡°)░▒▓
+indifference,ヽ(ー_ー )ノ
+indifference,ヽ(´ー` )┌
+indifference,┐(‘～` )┌
+indifference,ヽ(　￣д￣)ノ
+indifference,┐(￣ヘ￣)┌
+indifference,ヽ(￣～￣　)ノ
+indifference,╮(￣_￣)╭
+indifference,ヽ(ˇヘˇ)ノ
+indifference,┐(￣～￣)┌
+indifference,┐(︶▽︶)┌
+indifference,╮(￣～￣)╭
+indifference,¯_(ツ)_/¯
+indifference,┐( ´ д ` )┌
+indifference,╮(︶︿︶)╭
+indifference,┐(￣∀￣)┌
+indifference,┐( ˘ ､ ˘ )┌
+indifference,╮(︶▽︶)╭
+indifference,╮( ˘ ､ ˘ )╭
+indifference,┐( ˘_˘ )┌
+indifference,╮( ˘_˘ )╭
+indifference,┐(￣ヮ￣)┌
+indifference,ᕕ( ᐛ )ᕗ
+indifference,┐(シ)┌
+confusion,(￣ω￣;)
+confusion,σ(￣、￣〃)
+confusion,(￣～￣;)
+confusion,(-_-;)・・・
+confusion,┐('～`;)┌
+confusion,(・_・ヾ
+confusion,(〃￣ω￣〃ゞ
+confusion,┐(￣ヘ￣;)┌
+confusion,(・_・;)
+confusion,(￣_￣)・・・
+confusion,╮(￣ω￣;)╭
+confusion,(¯ . ¯;)
+confusion,(＠_＠)
+confusion,(・・;)ゞ
+confusion,Σ(￣。￣ﾉ)
+confusion,(・・ ) ?
+confusion,(•ิ_•ิ)?
+confusion,(◎ ◎)ゞ
+confusion,(ーー;)
+confusion,ლ(ಠ_ಠ ლ)
+confusion,"ლ(¯ロ¯""ლ)"
+confusion,(¯ . ¯٥)
+confusion,(¯ ¯٥)
+doubt,(￢_￢)
+doubt,(→_→)
+doubt,(￢ ￢)
+doubt,(￢‿￢ )
+doubt,(¬_¬ )
+doubt,(←_←)
+doubt,(¬ ¬ )
+doubt,(¬‿¬ )
+doubt,(↼_↼)
+doubt,(⇀_⇀)
+doubt,(ᓀ ᓀ)
+surprise,w(°ｏ°)w
+surprise,ヽ(°〇°)ﾉ
+surprise,Σ(O_O)
+surprise,Σ(°ロ°)
+surprise,(⊙_⊙)
+surprise,(o_O)
+surprise,(O_O;)
+surprise,(O.O)
+surprise,(°ロ°) !
+surprise,(o_O) !
+surprise,(□_□)
+surprise,Σ(□_□)
+surprise,∑(O_O;)
+surprise,( : ౦ ‸ ౦ : )
+greeting,(*・ω・)ﾉ
+greeting,(￣▽￣)ノ
+greeting,(°▽°)/
+greeting,( ´ ∀ ` )ﾉ
+greeting,(^-^*)/
+greeting,(＠´ー`)ﾉﾞ
+greeting,(´• ω •`)ﾉ
+greeting,( ° ∀ ° )ﾉﾞ
+greeting,ヾ(*'▽'*)
+greeting,＼(⌒▽⌒)
+greeting,ヾ(☆▽☆)
+greeting,( ´ ▽ ` )ﾉ
+greeting,(^０^)ノ
+greeting,~ヾ(・ω・)
+greeting,(・∀・)ノ
+greeting,ヾ(・ω・*)
+greeting,(*°ｰ°)ﾉ
+greeting,(・_・)ノ
+greeting,(o´ω`o)ﾉ
+greeting,( ´ ▽ ` )/
+greeting,(￣ω￣)/
+greeting,( ´ ω ` )ノﾞ
+greeting,(⌒ω⌒)ﾉ
+greeting,(o^ ^o)/
+greeting,(≧▽≦)/
+greeting,(✧∀✧)/
+greeting,(o´▽`o)ﾉ
+greeting,(￣▽￣)/
+hugging,(づ￣ ³￣)づ
+hugging,(つ≧▽≦)つ
+hugging,(つ✧ω✧)つ
+hugging,(づ ◕‿◕ )づ
+hugging,(⊃｡•́‿•̀｡)⊃
+hugging,(つ . •́ _ʖ •̀ .)つ
+hugging,(っಠ‿ಠ)っ
+hugging,(づ◡﹏◡)づ
+hugging,⊂(´• ω •`⊂)
+hugging,⊂(･ω･*⊂)
+hugging,⊂(￣▽￣)⊃
+hugging,⊂( ´ ▽ ` )⊃
+hugging,( ~*-*)~
+hugging,(｡•̀ᴗ-)✧
+winking,(^_~)
+winking,( ﾟｏ⌒)
+winking,(^_-)≡☆
+winking,(^ω~)
+winking,(>ω^)
+winking,(~人^)
+winking,(^_-)
+winking,( -_・)
+winking,(^_<)〜☆
+winking,(^人<)〜☆
+winking,☆⌒(≧▽​° )
+winking,☆⌒(ゝ。∂)
+winking,(^_<)
+winking,(^_−)☆
+winking,(･ω<)☆
+winking,(^.~)☆
+winking,(^.~)
+apologizing,m(_ _)m
+apologizing,(シ_ _)シ
+apologizing,m(. .)m
+apologizing,<(_ _)>
+apologizing,人(_ _*)
+apologizing,(*_ _)人
+apologizing,m(_ _;m)
+apologizing,(m;_ _)m
+apologizing,(シ. .)シ
+nosebleeding,(*￣ii￣)
+nosebleeding,(￣ﾊ￣*)
+nosebleeding,(￣ﾊ￣)
+nosebleeding,(＾་།＾)
+nosebleeding,(＾〃＾)
+nosebleeding,(￣ ¨ヽ￣)
+nosebleeding,(￣ ;￣)
+nosebleeding,(￣ ;;￣)
+hiding,|･ω･)
+hiding,ﾍ(･_|
+hiding,|ω･)ﾉ
+hiding,ヾ(･|
+hiding,|д･)
+hiding,|_￣))
+hiding,|▽//)
+hiding,┬┴┬┴┤(･_├┬┴┬┴
+hiding,┬┴┬┴┤･ω･)ﾉ
+hiding,┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴
+hiding,┬┴┬┴┤(･_├┬┴┬┴
+hiding,|_・)
+hiding,|･д･)ﾉ
+hiding,|ʘ‿ʘ)╯
+writing,__φ(．．)
+writing,( ￣ー￣)φ__
+writing,__φ(。。)
+writing,__φ(．．;)
+writing,ヾ( `ー´)シφ__
+writing,__〆(￣ー￣ )
+writing,....φ(・∀・*)
+writing,___〆(・∀・)
+writing,( ^▽^)ψ__
+writing,....φ(︶▽︶)φ....
+writing,( . .)φ__
+writing,__φ(◎◎ヘ)
+running,☆ﾐ(o*･ω･)ﾉ
+running,C= C= C= C= C=┌(;・ω・)┘
+running,─=≡Σ((( つ＞＜)つ
+running,ε=ε=ε=ε=┌(;￣▽￣)┘
+running,ε=ε=┌( >_<)┘
+running,C= C= C= C=┌( `ー´)┘
+running,ε===(っ≧ω≦)っ
+running,ヽ(￣д￣;)ノ=3=3=3
+running,。。。ミヽ(。＞＜)ノ
+sleeping,[(－－)]..zzZ
+sleeping,(－_－) zzZ
+sleeping,(∪｡∪)｡｡｡zzZ
+sleeping,(－ω－) zzZ
+sleeping,(￣o￣) zzZZzzZZ
+sleeping,(( _ _ ))..zzzZZ
+sleeping,(￣ρ￣)..zzZZ
+sleeping,(－.－)...zzz
+sleeping,(＿ ＿*) Z z z
+cat,(=^･ω･^=)
+cat,(=^･ｪ･^=)
+cat,(=①ω①=)
+cat,( =ω=)..nyaa
+cat,(= ; ｪ ; =)
+cat,(=`ω´=)
+cat,(=^‥^=)
+cat,( =ノωヽ=)
+cat,(=⌒‿‿⌒=)
+cat,(=^ ◡ ^=)
+cat,(=^-ω-^=)
+cat,ヾ(=`ω´=)ノ”
+cat,(＾• ω •＾)
+cat,(/ =ω=)/
+cat,ฅ(•ㅅ•❀)ฅ
+cat,ฅ(• ɪ •)ฅ
+cat,ଲ(ⓛ ω ⓛ)ଲ
+cat,(^=◕ᴥ◕=^)
+cat,( =ω= )
+cat,(^˵◕ω◕˵^)
+cat,(^◔ᴥ◔^)
+cat,(^◕ᴥ◕^)
+cat,ต(=ω=)ต
+cat,( Φ ω Φ )
+cat,ฅ(^◕ᴥ◕^)ฅ
+bear,( ´(ｴ)ˋ )
+bear,(*￣(ｴ)￣*)
+bear,ヽ(￣(ｴ)￣)ﾉ
+bear,(／￣(ｴ)￣)／
+bear,(￣(ｴ)￣)
+bear,ヽ( ˋ(ｴ)´ )ﾉ
+bear,⊂(￣(ｴ)￣)⊃
+bear,(／(ｴ)＼)
+bear,⊂(´(ェ)ˋ)⊃
+bear,(/-(ｴ)-＼)
+bear,(/°(ｴ)°)/
+bear,ʕ ᵔᴥᵔ ʔ
+bear,ʕ •ᴥ• ʔ
+bear,ʕ •̀ ω •́ ʔ
+bear,ʕ •̀ o •́ ʔ
+bear,ʕಠᴥಠʔ
+dog,∪＾ェ＾∪
+dog,∪･ω･∪
+dog,∪￣-￣∪
+dog,∪･ｪ･∪
+dog,Ｕ^皿^Ｕ
+dog,ＵＴｪＴＵ
+dog,U^ｪ^U
+dog,V●ᴥ●V
+dog,U・ᴥ・U
+rabbit,／(≧ x ≦)＼
+rabbit,／(･ × ･)＼
+rabbit,／(=´x`=)＼
+rabbit,／(^ x ^)＼
+rabbit,／(=･ x ･=)＼
+rabbit,／(^ × ^)＼
+rabbit,／(＞×＜)＼
+rabbit,／(˃ᆺ˂)＼
+pig,( ´(00)ˋ )
+pig,(￣(ω)￣)
+pig,ヽ( ˋ(00)´ )ノ
+pig,( ´(oo)ˋ )
+pig,＼(￣(oo)￣)／
+pig,｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡
+pig,(￣(00)￣)
+pig,(ˆ(oo)ˆ)
+bird,(￣Θ￣)
+bird,(`･Θ･´)
+bird,( ˋ Θ ´ )
+bird,(◉Θ◉)
+bird,＼( ˋ Θ ´ )／
+bird,(･θ･)
+bird,(・Θ・)
+bird,ヾ(￣◇￣)ノ〃
+bird,(･Θ･)
+fish,(°)#))<<
+fish,<・ )))><<
+fish,ζ°)))彡
+fish,>°))))彡
+fish,(°))<<
+fish,>^)))<～～
+fish,≧( ° ° )≦
+spider,/╲/╭(ఠఠ益ఠఠ)╮/╱
+spider,/╲/╭(ರರ⌓ರರ)╮/╱
+spider,/╲/╭༼ ººل͟ºº ༽╮/╱
+spider,/╲/╭( ͡°͡° ͜ʖ ͡°͡°)╮/╱
+spider,/╲/╭[ ᴼᴼ ౪ ᴼᴼ]╮/╱
+spider,/╲/( •̀ ω •́ )/╱
+spider,/╲/╭[☉﹏☉]╮/╱
+friends,ヾ(・ω・)メ(・ω・)ノ
+friends,ヽ(∀° )人( °∀)ノ
+friends,ヽ( ⌒o⌒)人(⌒-⌒ )ﾉ
+friends,(*^ω^)八(⌒▽⌒)八(-‿‿- )ヽ
+friends,＼(＾∀＾)メ(＾∀＾)ノ
+friends,ヾ(￣ー￣(≧ω≦*)ゝ
+friends,ヽ( ⌒ω⌒)人(=^‥^= )ﾉ
+friends,ヽ(≧◡≦)八(o^ ^o)ノ
+friends,(*・∀・)爻(・∀・*)
+friends,｡*:☆(・ω・人・ω・)｡:゜☆｡
+friends,o(^^o)(o^^o)(o^^o)(o^^)o
+friends,(((￣(￣(￣▽￣)￣)￣)))
+friends,(°(°ω(°ω°(☆ω☆)°ω°)ω°)°)
+friends,ヾ(・ω・`)ノヾ(´・ω・)ノ゛
+friends,Ψ( `∀)(∀´ )Ψ
+friends,(っ˘▽˘)(˘▽˘)˘▽˘ς)
+friends,(((*°▽°*)八(*°▽°*)))
+friends,☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
+friends,(*＾ω＾)人(＾ω＾*)
+friends,"٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶"
+friends,(☞°ヮ°)☞ ☜(°ヮ°☜)
+friends,＼(▽￣  (￣▽￣) / ￣▽)／
+friends,( ˙▿˙ )/( ˙▿˙ )/
+enemies,ヽ( ･∀･)ﾉ_θ彡☆Σ(ノ `Д´)ノ
+enemies,(*´∇`)┌θ☆(ﾉ>_<)ﾉ
+enemies,( ￣ω￣)ノﾞ⌒☆ﾐ(o _ _)o
+enemies,(*`0´)θ☆(メ°皿°)ﾉ
+enemies,(o¬‿¬o )...☆ﾐ(*x_x)
+enemies,(╬￣皿￣)=○＃(￣#)３￣)
+enemies,(; -_-)――――――C<―_-)
+enemies,＜( ￣︿￣)︵θ︵θ︵☆(＞口＜－)
+enemies,(￣ε(#￣)☆╰╮o(￣▽￣///)
+enemies,ヽ(>_<ヽ) ―⊂|=0ヘ(^‿^ )
+enemies,ヘ(>_<ヘ) ￢o(￣‿￣ﾒ)
+enemies,",,((( ￣□)_／ ＼_(○￣ ))),,"
+enemies,(҂` ﾛ ´)︻デ═一 ＼(º □ º l|l)/
+enemies,(╯°Д°)╯︵ /(.□ . ＼)
+enemies,(¬_¬'')ԅ(￣ε￣ԅ)
+enemies,/( .□.)＼ ︵╰(°益°)╯︵ /(.□. /)
+enemies,(ﾉ-.-)ﾉ….((((((((((((●~* ( >_<)
+enemies,!!(ﾒ￣ ￣)_θ☆°0°)/
+enemies,(`⌒*)O-(`⌒´Q)
+enemies,(((ง’ω’)و三 ง’ω’)ڡ≡　☆⌒ﾐ((x_x)
+enemies,(งಠ_ಠ)ง　σ( •̀ ω •́ σ)
+enemies,(っ•﹏•)っ ✴==≡눈٩(`皿´҂)ง
+enemies,(｢• ω •)｢ (⌒ω⌒`)
+enemies,( °ᴗ°)~ð (/❛o❛)
+weapons,( ・∀・)・・・--------☆
+weapons,(/-_・)/D・・・・・------ →
+weapons,(^ω^)ノﾞ(((((((((●～*
+weapons,( -ω-)／占~~~~~
+weapons,(/・・)ノ　　 (( く ((へ
+weapons,―⊂|=0ヘ(^^ )
+weapons,○∞∞∞∞ヽ(^ー^ )
+weapons,(; ・_・)――――C
+weapons,(ಠ o ಠ)¤=[]:::::>
+weapons,(*＾＾)/~~~~~~~~~~◎
+weapons,￢o(￣-￣ﾒ)
+weapons,―(T_T)→
+weapons,((( ￣□)_／
+weapons,(ﾒ` ﾛ ´)︻デ═一
+weapons,( ´-ω･)︻┻┳══━一
+weapons,(ﾒ￣▽￣)︻┳═一
+weapons,✴==≡눈٩(`皿´҂)ง
+weapons,Q(`⌒´Q)
+magic,(ノ ˘_˘)ノ　ζ|||ζ　ζ|||ζ　ζ|||ζ
+magic,(ﾉ≧∀≦)ﾉ ‥…━━━★
+magic,"(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆"
+magic,(ノ°∀°)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆
+magic,╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ
+magic,(＃￣□￣)o━∈・・━━━━☆
+magic,(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿
+magic,(∩ᄑ_ᄑ)⊃━☆ﾟ*･｡*･:≡( ε:)
+magic,(/￣ー￣)/~~☆’.･.･:★’.･.･:☆
+magic,(∩` ﾛ ´)⊃━炎炎炎炎炎
+food,(っ˘ڡ˘ς)
+food,( o˘◡˘o) ┌iii┐
+food,(　’ω’)旦~~
+food,( ˘▽˘)っ♨
+food,♨o(>_<)o♨
+food,( ・ω・)o-{{[〃]}}
+food,(　・ω・)⊃-[二二]
+food,( ・・)つ―{}@{}@{}-
+food,( ・・)つ-●●●
+food,(*´ー`)旦 旦(￣ω￣*)
+food,(*´з`)口ﾟ｡ﾟ口(・∀・ )
+food,( o^ ^o)且 且(´ω`*)
+food,( ￣▽￣)[] [](≧▽≦ )
+food,( *^^)o∀*∀o(^^* )
+food,( ^^)_旦~~　 ~~U_(^^ )
+food,(*￣▽￣)旦 且(´∀`*)
+food,-●●●-ｃ(・・ )
+food,( ・・)つ―●○◎-
+music,ヾ(´〇`)ﾉ♪♪♪
+music,ヘ(￣ω￣ヘ)
+music,(〜￣▽￣)〜
+music,〜(￣▽￣〜)
+music,ヽ(o´∀`)ﾉ♪♬
+music,(ﾉ≧∀≦)ﾉ
+music,♪ヽ(^^ヽ)♪
+music,♪(/_ _ )/♪
+music,♪♬((d⌒ω⌒b))♬♪
+music,└(￣-￣└))
+music,((┘￣ω￣)┘
+music,√(￣‥￣√)
+music,└(＾＾)┐
+music,┌(＾＾)┘
+music,＼(￣▽￣)＼
+music,／(￣▽￣)／
+music,(￣▽￣)/♫•*¨*•.¸¸♪
+music,(^_^♪)
+music,(~˘▽˘)~
+music,~(˘▽˘~)
+music,ヾ(⌐■_■)ノ♪
+music,(〜￣△￣)〜
+music,(~‾▽‾)~
+music,~(˘▽˘)~
+music,乁( • ω •乁)
+music,(｢• ω •)｢
+music,⁽⁽◝( • ω • )◜⁾⁾
+music,✺◟( • ω • )◞✺
+music,♬♫♪◖(● o ●)◗♪♫♬
+music,( ˘ ɜ˘) ♬♪♫
+music,♪♪♪ ヽ(ˇ∀ˇ )ゞ
+music,(ˇ▽ˇ)ノ♪♬♫
+games,( ^^)p_____|_o____q(^^ )
+games,(／o^)/ °⊥ ＼(^o＼)
+games,!(;ﾟoﾟ)o/￣￣￣￣￣￣￣~ >ﾟ))))彡
+games,ヽ(^o^)ρ┳┻┳°σ(^o^)ノ
+games,(／_^)／　　●　＼(^_＼)
+games,"""( (≡|≡))_／ ＼_((≡|≡) )"""
+games,( ノ-_-)ノﾞ_□ VS □_ヾ(^-^ヽ)
+games,ヽ(；^ ^)ノﾞ ．．．...___〇
+games,(=O*_*)=O Q(*_*Q)
+games,Ю　○三　＼(￣^￣＼)
+faces,( ͡° ͜ʖ ͡°)
+faces,( ͡° ʖ̯ ͡°)
+faces,( ͠° ͟ʖ ͡°)
+faces,( ͡ᵔ ͜ʖ ͡ᵔ)
+faces,( . •́ _ʖ •̀ .)
+faces,( ఠ ͟ʖ ఠ)
+faces,( ͡ಠ ʖ̯ ͡ಠ)
+faces,( ಠ ʖ̯ ಠ)
+faces,( ಠ ͜ʖ ಠ)
+faces,( ಥ ʖ̯ ಥ)
+faces,( ͡• ͜ʖ ͡• )
+faces,( ･ิ ͜ʖ ･ิ)
+faces,( ͡ ͜ʖ ͡ )
+faces,(≖ ͜ʖ≖)
+faces,(ʘ ʖ̯ ʘ)
+faces,(ʘ ͟ʖ ʘ)
+faces,(ʘ ͜ʖ ʘ)
+faces,(;´༎ຶٹ༎ຶ`)
+special,"٩(ˊ〇ˋ*)و"
+special,(￣^￣)ゞ
+special,(－‸ლ)
+special,(╯°益°)╯彡┻━┻
+special,(╮°-°)╮┳━━┳ ( ╯°□°)╯ ┻━━┻
+special,┬─┬ノ( º _ ºノ)
+special,(oT-T)尸
+special,( ͡° ͜ʖ ͡°)
+special,[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
+special,(ಠ_ಠ)
+special,"౦０o ｡ (‾́。‾́ )y~~"
+special,(￣﹃￣)
+special,(x(x_(x_x(O_o)x_x)_x)x)
+special,(　･ω･)☞
+special,(⌐■_■)
+special,(◕‿◕✿)
+special,(　￣.)o-　　【　TV　】
+special,｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ
+special,‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵
+special,( • )( • )ԅ(≖‿≖ԅ)
+special,( ＾▽＾)っ✂╰⋃╯
+special,〜〜(／￣▽)／　〜ф
+special,ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
+special,ଘ(੭ˊ꒳​ˋ)੭✧
+special,_(:3 」∠)_
+special,∠( ᐛ 」∠)_
