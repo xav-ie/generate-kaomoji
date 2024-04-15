@@ -12,6 +12,7 @@
     flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = import nixpkgs { inherit system; };
+        kaomojiJson = pkgs.copyPathToStore (self + "/kaomoji.json");
         myprogram = pkgs.writeShellApplication {
           name = "generate-kaomoji";
           runtimeInputs = [ pkgs.jq ];
@@ -38,7 +39,7 @@
               exit 0
             fi
 
-            ARRAY=$(cat kaomoji.json)
+            ARRAY=$(cat ${kaomojiJson})
             LENGTH=$(echo "$ARRAY" | jq '.kaomoji | length')
             RAND_INDEX=$((RANDOM % LENGTH))
 
