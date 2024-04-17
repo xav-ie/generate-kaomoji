@@ -1,4 +1,4 @@
-# generate-kaomoji [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
+# generate-kaomoji [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org) [![FlakeHub](https://img.shields.io/endpoint?url=https://flakehub.com/f/xav-ie/generate-kaomoji/badge)](https://flakehub.com/flake/xav-ie/generate-kaomoji)
 
 Generate random kaomoji! Useful for notifications, bars, and all other utilities for extra ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ .
 
