@@ -56,8 +56,7 @@
             echo "$ARRAY" | jq --argjson index $RAND_INDEX '.kaomoji[$index]' | jq $RAW_OUTPUT "$EXTRA_ARGS"
           '';
         };
-      in
-      {
+      in {
         packages.default = myprogram;
 
         apps.default = {
