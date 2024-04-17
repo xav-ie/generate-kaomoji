@@ -1,4 +1,4 @@
-# generate-kaomoji
+# generate-kaomoji [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
 Generate random kaomoji! Useful for notifications, bars, and all other utilities for extra ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ .
 
